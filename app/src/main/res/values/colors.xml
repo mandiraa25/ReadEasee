@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF000000</color>
+    <color name="secondary">#FFFFFFFF</color>
+    <color name="third">#6E5A5A</color>
+    <color name="lodword">#6F5DE2</color>
+    <color name="subbtncolor">#D9D9D9</color>
+    <color name="gray">#757575</color>
+    <color name="para">#F6F1F1</color>
+    <color name="pale">#B7A6A6</color>
+    <color name="lightbrown">#614E4E</color>
+
+
+</resources>
